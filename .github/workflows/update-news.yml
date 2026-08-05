@@ -29,7 +29,7 @@ jobs:
           python-version: "3.12"
 
       - name: 뉴스 주소 변환 도구 설치하기
-        run: pip install googlenewsdecoder==0.1.7
+        run: pip install googlenewsdecoder==0.1.7 trafilatura==2.0.0
 
       - name: 한국 AI 뉴스 수집하기
         run: python3 scripts/fetch_news.py
