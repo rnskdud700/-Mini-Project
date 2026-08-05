@@ -1,0 +1,34 @@
+[
+  {
+    "title": "[테스트] 국내 생성형 AI 관련 뉴스",
+    "description": "화면 구성을 확인하기 위한 임시 데이터입니다. 실제 서비스에서는 뉴스 제공처가 작성한 제목과 설명만 표시합니다.",
+    "source": "테스트 뉴스",
+    "publishedAt": "2026-08-05T13:30:00+09:00",
+    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "[테스트] 새로운 AI 반도체 기술 소식",
+    "description": "기사 제목, 출처, 게시 시각과 원문 링크가 카드에 어떻게 표시되는지 확인하기 위한 테스트 기사입니다.",
+    "source": "테스트 뉴스",
+    "publishedAt": "2026-08-05T12:45:00+09:00",
+    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "category": "AI 반도체"
+  },
+  {
+    "title": "[테스트] 국내 AI 정책 관련 발표",
+    "description": "AI가 내용을 해석하거나 요약하지 않습니다. 자동 수집 단계에서는 RSS가 제공하는 원문 정보만 사용합니다.",
+    "source": "테스트 뉴스",
+    "publishedAt": "2026-08-05T11:20:00+09:00",
+    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "category": "AI 정책"
+  },
+  {
+    "title": "[테스트] 한국 기업의 AI 서비스 업데이트",
+    "description": "반응형 카드 화면을 확인하기 위한 마지막 테스트 데이터입니다. 이후 실제 국내 AI 뉴스로 교체됩니다.",
+    "source": "테스트 뉴스",
+    "publishedAt": "2026-08-05T10:10:00+09:00",
+    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "category": "생성형 AI"
+  }
+]
