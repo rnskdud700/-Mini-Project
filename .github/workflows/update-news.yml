@@ -2,6 +2,7 @@ name: Update Korean AI news
 
 on:
   schedule:
+    # 한국 시간 기준 매일 오전 9시 15분, 오후 9시 15분
     - cron: "15 0,12 * * *"
   workflow_dispatch:
 
@@ -21,6 +22,14 @@ jobs:
     steps:
       - name: 저장소 파일 불러오기
         uses: actions/checkout@v6
+
+      - name: Python 준비하기
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: 뉴스 주소 변환 도구 설치하기
+        run: pip install googlenewsdecoder==0.1.7
 
       - name: 한국 AI 뉴스 수집하기
         run: python3 scripts/fetch_news.py
@@ -55,6 +64,4 @@ jobs:
     needs: update
 
     steps:
-      - name: GitHub Pages에 배포하기
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: GitHub Pages
