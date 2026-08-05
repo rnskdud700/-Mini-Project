@@ -1,34 +1,82 @@
 [
   {
-    "title": "[테스트] 국내 생성형 AI 관련 뉴스",
-    "description": "화면 구성을 확인하기 위한 임시 데이터입니다. 실제 서비스에서는 뉴스 제공처가 작성한 제목과 설명만 표시합니다.",
-    "source": "테스트 뉴스",
-    "publishedAt": "2026-08-05T13:30:00+09:00",
-    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "title": "한전기술, 공공기관 첫 자체 생성형 AI 코드 자동생성 서비스 ‘NEXA CODE’ 운영",
+    "description": "",
+    "source": "시사캐스트",
+    "publishedAt": "2026-08-05T05:35:07+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xblNuQUJtQ1l4X0NQRk55OTJjaHZUa25PMkJ2T2ZKQ1FRZmNkV3c0SEVXOThWYzRrcEI0c2FFeGlic0tpRmk3Mmxfb2NRRGdoOWhqSW5jdmR3Tms0eWlsR0VPNkZsaUk?oc=5",
     "category": "생성형 AI"
   },
   {
-    "title": "[테스트] 새로운 AI 반도체 기술 소식",
-    "description": "기사 제목, 출처, 게시 시각과 원문 링크가 카드에 어떻게 표시되는지 확인하기 위한 테스트 기사입니다.",
-    "source": "테스트 뉴스",
-    "publishedAt": "2026-08-05T12:45:00+09:00",
-    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
-    "category": "AI 반도체"
+    "title": "한국전력기술, 공공기관 최초 자체 개발 생성형 AI ‘넥사코드’ 정식 운영",
+    "description": "",
+    "source": "에너지코리아뉴스",
+    "publishedAt": "2026-08-05T05:03:11+00:00",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ob0pXYnZ1ZzZXSEEySTBXZ2w0VXFlaXVXUXBDOFZhYzNONDJnS3A1Y2xkYWhNa2ctakFuQ1Ntel9xa2N5MEtXb1czb0pPQklDZEpIYVlFdWV1SC1ob1dMTXgtdDVVLXN5UVUzUXE3NGM?oc=5",
+    "category": "생성형 AI"
   },
   {
-    "title": "[테스트] 국내 AI 정책 관련 발표",
-    "description": "AI가 내용을 해석하거나 요약하지 않습니다. 자동 수집 단계에서는 RSS가 제공하는 원문 정보만 사용합니다.",
-    "source": "테스트 뉴스",
-    "publishedAt": "2026-08-05T11:20:00+09:00",
-    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "title": "美 15개 주 법무장관, 오픈AI에 공동서한…잇단 ‘해킹 AI’ 사고에 안전 기준·책임 법제화 압박",
+    "description": "",
+    "source": "조선일보",
+    "publishedAt": "2026-08-05T04:59:00+00:00",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcktTQzlDM1l3eDhYZlJZZG1jLTV4cU9jUThhM1M0VkcybjJUclQyeHBRb0x2azY2ckxqWkc2aUZpU2RfaXZvRXBta0xnUXFMcUhNZlh6MlJTU01laUx1ak1aa1d5ZEJWczNRbGFiMGtkS01rYW9pWDlqNE93Yk1iR1czNA?oc=5",
     "category": "AI 정책"
   },
   {
-    "title": "[테스트] 한국 기업의 AI 서비스 업데이트",
-    "description": "반응형 카드 화면을 확인하기 위한 마지막 테스트 데이터입니다. 이후 실제 국내 AI 뉴스로 교체됩니다.",
-    "source": "테스트 뉴스",
-    "publishedAt": "2026-08-05T10:10:00+09:00",
-    "url": "https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko",
+    "title": "한전기술, 공공기관 첫 자체 생성형 AI 코딩 서비스 상용화했다",
+    "description": "",
+    "source": "energydaily.co.kr",
+    "publishedAt": "2026-08-05T04:42:09+00:00",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUkxkQl9iZHhnaU9jX3dhejZJOUd5QmxRNk1qQ1NFdUt1aWl3SEVfTlFaQ0JuYVlPSzhZVVIyTnY5eEtIakIxOExQcXk1dkxkbkRXdXRYdWhoODhKTXhMaE5xb1lpSlpCeXBPT05faWNfZw?oc=5",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "퓨리오사AI 칩, 스웨덴 AI 데이터센터 투입…유럽 공략 박차",
+    "description": "",
+    "source": "연합뉴스",
+    "publishedAt": "2026-08-05T04:06:41+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QMG50VjFHOFBYNXFGY1VnYWRQUFhnSTFSTVpxbVFFNUI3T3JzV1V5R3ViZE5wTUN0UWlNNjMtOXg1a0lnc1VDV29uemJ0WUJXUkhXb0Y2UllwV2pyb2VZOdIBYEFVX3lxTE1QMG50VjFHOFBYNXFGY1VnYWRQUFhnSTFSTVpxbVFFNUI3T3JzV1V5R3ViZE5wTUN0UWlNNjMtOXg1a0lnc1VDV29uemJ0WUJXUkhXb0Y2UllwV2pyb2VZOQ?oc=5",
+    "category": "AI 반도체"
+  },
+  {
+    "title": "생성형 AI 업무 활용 체계 갖춘 강남구도시관리공단",
+    "description": "",
+    "source": "강남내일신문",
+    "publishedAt": "2026-08-05T04:06:19+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRGJRWEwtc3ZhZzlTTFZ0Q0JzR0t1cURpcmw0ODlwTHQ0WWN0YTdUU2tEaVBoc3I0MmlWeWloTzVsN01SSEVwcWl4Qng5eVBZR0VjUVBoZEVsUFVpRVN0UXl2SjFRVGM?oc=5",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "AMD, AI 반도체 타고 2분기 ‘최대 실적’… 매출 50% ‘껑충’",
+    "description": "",
+    "source": "대한경제",
+    "publishedAt": "2026-08-05T04:05:07+00:00",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHNOcXhiMURMaGdMRnJET2xueGd2emFKVEk1NjY5ZGhPNjJac0J4WHBqLW5Uemg5QTloMUVKT2NoWEZuQXU2OTVPSU9ZRjM2RXlOLUUwTnJsZmdrUXBCTTlTSjlKYTRuUWJ5V0lKS1oyY2tBLXdSVmxXRlRuc0RlbW9aZEw0SWs?oc=5",
+    "category": "AI 반도체"
+  },
+  {
+    "title": "관악구, 생성형 AI로 ‘공시지가’ 영상 자체 제작…공무원이 기획부터 편집까지",
+    "description": "",
+    "source": "시정일보",
+    "publishedAt": "2026-08-05T03:50:12+00:00",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zMmkzdVJaQ2VpbVBaQTNJT2l6eVl2aVU2a3UyQmJhdXhwNjg4eThOaGtvdk01amthUHZaU2tTbURwU2FlWVF0ZHNZZ3NEVjE1MVllUDAweDM3b3B5QTltWFdRRHJWX2t2UGNN?oc=5",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "\"의사 만나기 전 AI부터\"···국민 10명 중 7명 생성형 AI로 증상 확인",
+    "description": "",
+    "source": "메디칼업저버",
+    "publishedAt": "2026-08-05T03:39:13+00:00",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Xb19SVUJEOXpZaWM2TkNkaDVjRmUyWXVocEYzNlIwSHNheGVxTE53VG4zTVRRcnVKVUFsMGZJbVk4MVFtTU5qVVN2bUtvVzhNQlFVQ0Q3dDVLTzlCcVluNGdTUHdsN19KZUsw?oc=5",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "아이티센클로잇, 제미나이 기반 기업 AI 구축 역량 강화",
+    "description": "",
+    "source": "IT조선",
+    "publishedAt": "2026-08-05T03:30:14+00:00",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sVjY5a1FMWnBCMEVWMjhHN3FTUnZiVllTTkliNTk2cUVnWkRVM2hLSF8tVWJrWGh2bk1jZ1VHTlpVS1otejZ2NkFWVXB6aTZfd2JGTWhVWDBSVy1lMFpFNXVUQ21TbHFoTzJQb2VKRmM4X2df0gF0QVVfeXFMT2xWNjlrUUxacEIwRVYyOEc3cVNSdmJWWVNOSWI1OTZxRWdaRFUzaEtIXy1VYmtYaHZuTWNnVUdOWlVLWi16NnY2QVZVcHppNl93YkZNaFVYMFJXLWUwWkU1dVRDbVNscWhPMlBvZUpGYzhfZ18?oc=5",
     "category": "생성형 AI"
   }
 ]
