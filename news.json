@@ -1,82 +1,82 @@
 [
   {
+    "title": "삼성전자·SK하이닉스, 차세대 AI 반도체 주도권 경쟁",
+    "description": "김경륜 삼성전자 D램개발실 상무가 4일(현지시간) 미국 캘리...",
+    "source": "매일신문",
+    "publishedAt": "2026-08-05T06:47:48+00:00",
+    "url": "https://www.imaeil.com/page/view/2026080515055620449",
+    "category": "AI 반도체"
+  },
+  {
     "title": "한전기술, 공공기관 최초 자체 개발 AI 기반 대화형 코드 자동생성 서비스 '넥사코드' 운영",
     "description": "",
     "source": "전자신문",
     "publishedAt": "2026-08-05T06:17:56+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kWGpPWjcyUDhaX1ViTVRHUnp0UFlCTy1SQld1T1E3V3NaTTF4cmJJR1JlWTN6dkFvUUJLaWlHaVNrSnlRckFuak9tY0FuQQ?oc=5",
+    "url": "https://www.etnews.com/20260805000281",
     "category": "생성형 AI"
   },
   {
     "title": "세이퍼존, ISEC 2026서 생성형 AI 특화 ‘통합 DLP’ 아키텍처 공개",
-    "description": "",
+    "description": "엔드포인트와 네트워크, 이메일 결합해 양방향 정보 유출 및 침투 동시 차단 챗GPT 등 외부 서비스 입력 통제... 자체 서버 기반 AI 분석으로 안전성 확보 [보안뉴스 조재호 기자] 세이퍼존이 오는 8월 11일부터 12일까지 서울 코엑스에서 열리는 ISEC 2026에 참가해 생성형 AI 시대의 정보유출에 대응하는 ‘엔드포인트 DLP’와 ‘네트워크 이메일",
     "source": "v.daum.net",
     "publishedAt": "2026-08-05T06:16:38+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xd0ZwM1cwU21QT0ZPdm80aC1sSmhQZGFyUHdkTXNvWVcyU0hCbE5MbVBPbEhwQ3MwSmdTNnIwLUVQN0V5cUpnRk9ROXRjMnM?oc=5",
-    "category": "생성형 AI"
-  },
-  {
-    "title": "한전기술, 자체 개발한 AI기반 바이브 코딩 서비스 운영",
-    "description": "",
-    "source": "뉴시스",
-    "publishedAt": "2026-08-05T05:50:26+00:00",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPNndpVUhNRl9LblBrdXRiR003cjcyTExPaUpHb2N4Yzczd1BZQjNiVHJyV0YzeUw4Xy1vUmtSLUprRW4xWGJvVlFzTFFENTVtSlh2SlhMWnZIM20xcmtHRmJEc29uNl9SbnpjSTFqX0x5MXQ4MWh1RtIBeEFVX3lxTFBPNndpVUhNRl9LblBrdXRiR003cjcyTExPaUpHb2N4Yzczd1BZQjNiVHJyV0YzeUw4Xy1vUmtSLUprRW4xWGJvVlFzTFFENTVtSlh2SlhMWnZIM20xcmtHRmJEc29uNl9SbnpjSTFqX0x5MXQ4MWh1Rg?oc=5",
+    "url": "https://v.daum.net/v/20260805151638059",
     "category": "생성형 AI"
   },
   {
     "title": "AI 윤리부터 생성형 활용까지…성신여대, 청소년 멘토링 시작",
-    "description": "",
+    "description": "성신여대(총장 이성근)는 한국장학재단이 주관하는 '2026 대학생 청소년 AI 교육지원사업'에 참여하는 대학으로 선정됐다고 5일 밝혔다. 성신여대는 IT융합대학",
     "source": "교수신문",
     "publishedAt": "2026-08-05T05:21:41+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PLWhXTXFod2J0V0hqTWJvOFlXZHN1ck5HVFpjV0J6Nzk2QXpiaWRKeU92U0htVVF3LWl4aEROMEtkTlB1R3ljbUFoNUdZWlF3dGk3TTJVdngxUkxlYWp3dzV0N3hDVnM?oc=5",
+    "url": "https://www.kyosu.net/news/articleView.html?idxno=208493",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "\"국악과 AI의 만남\"…전주문화재단, 퓨전국악 뮤직비디오 공모전",
+    "description": "(전주=연합뉴스) 김동철 기자 = 전북 전주문화재단은 대한민국 문화도시 조성사업의 일환으로 '생성형 AI 퓨전국악 뮤직비디오 공모전'을 개최한다...",
+    "source": "연합뉴스",
+    "publishedAt": "2026-08-05T05:20:12+00:00",
+    "url": "https://www.yna.co.kr/amp/view/AKR20260805095500055",
     "category": "생성형 AI"
   },
   {
     "title": "삼성전자, 400단 넘어선 V-NAND·zHBM 최초 공개… AI 반도체 주도권 굳힌다",
-    "description": "",
+    "description": "삼성전자가 3D 메모리 아키텍처와 초고적층 낸드플래시 기술을 앞세워 인공지능(AI) 시대를 겨냥한 차세대 반도체 시장 주도권 굳히기에 나섰다. AI 가속기 위로 메모리를 직접 쌓아 올리는 신개념 적층 구조와 400단이 넘는 낸드 기술을 세계 최초로 선보이며 글로벌 반도체 기술의 기준점을 한 단계 끌어올렸다는 평가다.삼성전자는 4일(현지 시간) 미국 캘리포니아주 산타클라라 컨벤션센터에서 열린 글로벌 메모리 학술·전시회 ‘FMS 2026’에 참가해…",
     "source": "imsn.kr",
     "publishedAt": "2026-08-05T05:07:16+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1scmNweGI0WkZxVTRBT1c2VllXSkNGS202eXo5bFNjMnM4ZXEwMUt1dGcwamQtcE56MUpoczIzVEcwTk5YZjBtWXYtT19SZXNhMkNURUhjWU9nUUE0VzFCSldGbw?oc=5",
+    "url": "https://www.imsn.kr/news/articleView.html?idxno=17462",
     "category": "AI 반도체"
   },
   {
     "title": "美 15개 주 법무장관, 오픈AI에 공동서한…잇단 ‘해킹 AI’ 사고에 안전 기준·책임 법제화 압박",
-    "description": "",
+    "description": "미국 15개 주 법무장관들이 오픈AI의 AI 모델 보안 사고와 관련해 데이터 보존 및 평가 중단을 요구했다. 이는 AI의 통제 범위를 벗어난 침입 사고가 잇따르면서 기업의 자율적 관리보다 법적 규제와 책임 강화가 필요하다는 정치권의 판단에 따른 것이다. 현재 AI 긴급정지법 등 관련 입법 움직임도 구체화하고 있다.",
     "source": "조선일보",
     "publishedAt": "2026-08-05T04:59:00+00:00",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcktTQzlDM1l3eDhYZlJZZG1jLTV4cU9jUThhM1M0VkcybjJUclQyeHBRb0x2azY2ckxqWkc2aUZpU2RfaXZvRXBta0xnUXFMcUhNZlh6MlJTU01laUx1ak1aa1d5ZEJWczNRbGFiMGtkS01rYW9pWDlqNE93Yk1iR1czNA?oc=5",
+    "url": "https://www.chosun.com/economy/tech_it/2026/08/05/TDSU4JRHIRAWNN26YW5ONRLVCQ/",
     "category": "AI 정책"
   },
   {
     "title": "한전기술, 공공기관 첫 자체 생성형 AI 코딩 서비스 상용화했다",
-    "description": "",
+    "description": "[에너지데일리 송병훈 기자] 한국전력기술이 공공기관 최초로 자체 개발한 생성형 인공지능(AI) 기반 코드 자동생성 서비스를 정식 도입하며 AI 업무 혁신을 한 단",
     "source": "에너지데일리",
     "publishedAt": "2026-08-05T04:42:09+00:00",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MUkxkQl9iZHhnaU9jX3dhejZJOUd5QmxRNk1qQ1NFdUt1aWl3SEVfTlFaQ0JuYVlPSzhZVVIyTnY5eEtIakIxOExQcXk1dkxkbkRXdXRYdWhoODhKTXhMaE5xb1lpSlpCeXBPT05faWNfZw?oc=5",
+    "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=202004",
+    "category": "생성형 AI"
+  },
+  {
+    "title": "롯데백화점, 생성형 AI로 외국인 관광객 공략",
+    "description": "롯데백화점이 AI 기반 외국인 관광객 마케팅 강화에 나선다.롯데백화점은 생성형 AI를 활용해 외국인 고객 맞춤형 마케팅을 확대한다고 5일 밝혔다.롯데백화점은 여행 준비 단계에서 생성형 AI 검색 최적화(GEO) 마케팅을 추진한다. AI가 여행지나 쇼핑 정보를 추천할 ..",
+    "source": "데이터뉴스",
+    "publishedAt": "2026-08-05T04:24:31+00:00",
+    "url": "https://www.datanews.co.kr/news/article.html?no=145910",
     "category": "생성형 AI"
   },
   {
     "title": "퓨리오사AI 칩, 스웨덴 AI 데이터센터 투입…유럽 공략 박차",
-    "description": "",
+    "description": "(서울=연합뉴스) 권하영 기자 = 국내 인공지능(AI) 반도체 기업 퓨리오사AI가 스웨덴 스톡홀름의 대규모 AI 데이터센터 프로젝트에 참여하며 ...",
     "source": "연합뉴스",
     "publishedAt": "2026-08-05T04:06:41+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QMG50VjFHOFBYNXFGY1VnYWRQUFhnSTFSTVpxbVFFNUI3T3JzV1V5R3ViZE5wTUN0UWlNNjMtOXg1a0lnc1VDV29uemJ0WUJXUkhXb0Y2UllwV2pyb2VZOdIBYEFVX3lxTE1QMG50VjFHOFBYNXFGY1VnYWRQUFhnSTFSTVpxbVFFNUI3T3JzV1V5R3ViZE5wTUN0UWlNNjMtOXg1a0lnc1VDV29uemJ0WUJXUkhXb0Y2UllwV2pyb2VZOQ?oc=5",
-    "category": "AI 반도체"
-  },
-  {
-    "title": "생성형 AI 업무 활용 체계 갖춘 강남구도시관리공단",
-    "description": "",
-    "source": "강남내일신문",
-    "publishedAt": "2026-08-05T04:06:19+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KRGJRWEwtc3ZhZzlTTFZ0Q0JzR0t1cURpcmw0ODlwTHQ0WWN0YTdUU2tEaVBoc3I0MmlWeWloTzVsN01SSEVwcWl4Qng5eVBZR0VjUVBoZEVsUFVpRVN0UXl2SjFRVGM?oc=5",
-    "category": "생성형 AI"
-  },
-  {
-    "title": "AMD, AI 반도체 타고 2분기 ‘최대 실적’… 매출 50% ‘껑충’",
-    "description": "",
-    "source": "대한경제",
-    "publishedAt": "2026-08-05T04:05:07+00:00",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOHNOcXhiMURMaGdMRnJET2xueGd2emFKVEk1NjY5ZGhPNjJac0J4WHBqLW5Uemg5QTloMUVKT2NoWEZuQXU2OTVPSU9ZRjM2RXlOLUUwTnJsZmdrUXBCTTlTSjlKYTRuUWJ5V0lKS1oyY2tBLXdSVmxXRlRuc0RlbW9aZEw0SWs?oc=5",
+    "url": "https://www.yna.co.kr/amp/view/AKR20260805082400017",
     "category": "AI 반도체"
   }
 ]
