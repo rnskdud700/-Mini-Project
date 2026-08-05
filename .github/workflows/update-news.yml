@@ -64,4 +64,6 @@ jobs:
     needs: update
 
     steps:
-      - name: GitHub Pages
+      - name: GitHub Pages에 배포하기
+        id: deployment
+        uses: actions/deploy-pages@v4
